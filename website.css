@@ -26,8 +26,8 @@ button{
     margin-top: 50px;
     font-family: 'Faster One', cursive;
 }            
-img{
-    max-width: 1000px;
+.pics{
     display: block;
     margin: 0 auto;
+    position: relative;
 }
