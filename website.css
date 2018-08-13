@@ -2,12 +2,13 @@
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 body{
     background:#d3efff;
-    background-image: url("https://i.redd.it/r0ad288kma8x.jpg");
+    background-image: url("http://lindstromlawncare.com/wp-content/uploads/2013/02/Fertilization-and-Weed-Control-Treated-Lawn.png");
     background-size: cover;
     background-position: center;
     font-family: 'Indie Flower', cursive;
     text-align: center;
     font-size: 30px;
+    color: #ffffff;
 }
 li{
     font-family: 'Faster One', cursive;
