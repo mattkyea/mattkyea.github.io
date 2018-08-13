@@ -1,5 +1,4 @@
 // code from http://www.terminally-incoherent.com/blog/2014/06/04/scraping-reddits-json-for-cool-pics/ - thanks a lot
-
 var pics= new Array();
 pics[0] = new Image();
 pics[0].src = 'https://i.ytimg.com/vi/QPyy0oyWUTc/hqdefault.jpg';
